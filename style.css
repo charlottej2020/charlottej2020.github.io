@@ -1,0 +1,118 @@
+body {background-color: white}
+h1 {
+	font-family: georgia;
+	font-size: 36px;
+	color: white;
+	border-color: #61617B;
+	border-style: solid;
+	border-width: 0px 4px 0px 4px; 
+	background-color: hsla(240, 41%, 43%, 0.5);
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 4px;
+}
+
+a:visited {
+	color: white
+}
+a:active, a:hover {
+	color:#797979;
+}
+#navigation {
+	margin-top: 4px;
+	margin-bottom: 20px;
+	font-family: courier new ;
+	font-size: 22px;
+	color: white;
+	border-color: #5B79A1;
+	border-left-style: solid;
+	border-right-style: solid;
+	background-color: hsla(214, 43%, 49%, 0.5);
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-width: 4px; 
+	text-align: center;
+	 }
+
+#body {
+	margin-bottom: 4px;
+	font-family: avenir next;
+	color: white;
+	font-size: 24px;
+	background-color: hsla(344, 48%, 74%, 0.5);
+	padding: 5px 20px 5px 20px;
+	border-width: 0px 4px 0px 4px;
+	border-style: solid;
+	border-color: #FA81A1;
+}	 
+img
+{ 
+	padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-top: 4px;
+}
+/* this is just in case i want to change the style later
+width: 1100px;
+margin-right: 4px;
+margin-left: 4px;
+margin-bottom: 4px;
+border-right-style: solid;
+border-left-style: solid;
+border-top-style: none;
+border-bottom-style: none;
+border-width: 0px 4px 0px 4px;
+border-color: #FA81A1 
+*/
+
+footer {
+font-family: georgia;
+color: white;
+border-style: solid;
+border-width: 0px 4px 0px 4px;
+border-color:#F5A6B0;
+background-color: hsla(352, 32%, 81%, 0.5);
+margin-top: 4px;
+text-align: center;
+}
+
+#sources {
+	font-family: georgia;
+	font-size: 24px;
+	color: white;
+	border-color: #61617B;
+	border-style: solid;
+	border-width: 0px 4px 0px 4px; 
+	background-color: hsla(240, 41%, 43%, 0.5);
+	text-align: left;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	padding-left: 13px;
+	margin-bottom: 4px;
+}
+ul {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	color: white;
+	font-family: courier new;
+	font-size: 20px;
+	border-style: solid;
+	border-width: 0px 4px 0px 4px;
+	border-color: #5B79A1;
+	background-color: hsla(214, 43%, 49%, 0.5);
+	padding: 4px 4px 4px 24px;
+}
+/* 
+margin-top: 4px;
+	margin-bottom: 20px;
+	font-family: courier new ;
+	font-size: 22px;
+	color: white;
+	border-color: #5B79A1;
+	border-left-style: solid;
+	border-right-style: solid;
+	background-color: hsla(214, 43%, 49%, 0.5);
+	
+*/
